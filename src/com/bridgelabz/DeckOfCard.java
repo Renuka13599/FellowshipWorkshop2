@@ -12,9 +12,9 @@ import java.util.*;
 public class DeckOfCard {
      void Deck()
     {
-        String[] cardType={"clubs","diamonds","hearts","spades"};
-        String[] cardRank={"2","3","4","5","6","7","8","9","10","jack","Ace","king","queen"};
-        String[] cardNum=new String[52];
+        String[] cardType={"clubs","diamonds","hearts","spades"};//cardtype
+        String[] cardRank={"2","3","4","5","6","7","8","9","10","jack","Ace","king","queen"};//ranks of card
+        String[] cardNum=new String[52];//total no of cards
 
     }
 }
