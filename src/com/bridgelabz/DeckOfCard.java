@@ -18,6 +18,7 @@ public class DeckOfCard {
 
     }
      public static void main(String[] args) {
+         Random num=new Random();
         DeckOfCard deckOfCard=new DeckOfCard();
         deckOfCard deck();
     
