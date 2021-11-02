@@ -17,4 +17,8 @@ public class DeckOfCard {
         String[] cardNum=new String[52];//total no of cards
 
     }
+     public static void main(String[] args) {
+        DeckOfCard deckOfCard=new DeckOfCard();
+        deckOfCard deck();
+    
 }
